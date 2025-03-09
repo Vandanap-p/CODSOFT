@@ -10,10 +10,19 @@
 
 *DURATION*: 4 WEEKS
 
-*TASK*: CHATBOT WITH RULE-BASED RESPONSES
+*TASK 1*: CHATBOT WITH RULE-BASED RESPONSES
 
 *FILE NAME*: selflearningchatbot.py
 
 *OUTPUT*:
 
 ![Image](https://github.com/user-attachments/assets/cf3e0f52-02de-4c6c-9de4-a7fc968ebb59)
+
+*TASK 2*: RECOMMENDATION SYSTEM
+
+*FILE NAME*: recommendmivies.py
+
+*OUTPUT*: 
+
+
+
