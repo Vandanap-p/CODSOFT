@@ -24,5 +24,6 @@
 
 *OUTPUT*: 
 
+![Image](https://github.com/user-attachments/assets/206f6fb6-b2af-44e8-9b0e-3bba68b4c95c)
 
 
